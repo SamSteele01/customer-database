@@ -1,0 +1,17 @@
+#profile-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list-item {
+  display: block;
+}
+
+.text {
+text-align: center;
+}
+
+.street {
+  font-size: 
+}
